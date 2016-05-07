@@ -4,7 +4,7 @@ Do you like using the command line? Are you always trying to find out when the I
 
 ###Usage Instructions:
 
-Download this code and `main.rb` on your local machine, making sure you have the gems `rest-client` and `json` installed.
+Download this code and run `main.rb` on your local machine, making sure you have the gems `rest-client` and `json` installed.
 
 ###Example Output:
 ```
